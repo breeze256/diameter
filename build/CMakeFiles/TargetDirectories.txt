@@ -1,0 +1,5 @@
+/home/breeze256/WorkSpace/diameter/build/CMakeFiles/diameter.dir
+/home/breeze256/WorkSpace/diameter/build/CMakeFiles/edit_cache.dir
+/home/breeze256/WorkSpace/diameter/build/CMakeFiles/rebuild_cache.dir
+/home/breeze256/WorkSpace/diameter/build/CMakeFiles/diameter_autogen_timestamp_deps.dir
+/home/breeze256/WorkSpace/diameter/build/CMakeFiles/diameter_autogen.dir

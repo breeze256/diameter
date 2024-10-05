@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.o CMakeFiles/diameter.dir/src/diameter.cpp.o CMakeFiles/diameter.dir/src/main.cpp.o -o diameter  /usr/lib/libQt5Widgets.so.5.15.15 /usr/lib/libQt5Gui.so.5.15.15 /usr/lib/libQt5Core.so.5.15.15

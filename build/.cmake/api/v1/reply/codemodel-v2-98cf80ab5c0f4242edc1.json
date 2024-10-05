@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "diameter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "diameter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diameter-Debug-ac61376a4af78f95e170.json",
+					"name" : "diameter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diameter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diameter_autogen-Debug-fd7e09d64a278a8faeb3.json",
+					"name" : "diameter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diameter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diameter_autogen_timestamp_deps-Debug-2058ab1b1417f302c7f1.json",
+					"name" : "diameter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/breeze256/WorkSpace/diameter/build",
+		"source" : "/home/breeze256/WorkSpace/diameter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
