@@ -1,13 +1,13 @@
-#include "diameter.h"
+#include "MainWindow.h"
 
-diameter::diameter(QWidget* parent)
+MainWindow::MainWindow(QWidget* parent)
     : QMainWindow(parent)
     , ui(new Ui_diameter)
 {
     ui->setupUi(this);
 }
 
-diameter::~diameter()
+MainWindow::~MainWindow()
 {
     delete ui; 
 }

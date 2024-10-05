@@ -1,13 +1,13 @@
 /********************************************************************************
-** Form generated from reading UI file 'diameter.ui'
+** Form generated from reading UI file 'MainWindow.ui'
 **
 ** Created by: Qt User Interface Compiler version 5.15.15
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
 
-#ifndef UI_DIAMETER_H
-#define UI_DIAMETER_H
+#ifndef UI_MAINWINDOW_H
+#define UI_MAINWINDOW_H
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
@@ -58,4 +58,4 @@ namespace Ui {
 
 QT_END_NAMESPACE
 
-#endif // UI_DIAMETER_H
+#endif // UI_MAINWINDOW_H

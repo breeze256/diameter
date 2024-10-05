@@ -83,9 +83,9 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/breeze256/WorkSpace/diameter/src/diameter.h",
+			"/home/breeze256/WorkSpace/diameter/src/MainWindow.h",
 			"MU",
-			"UVLADIE3JM/moc_diameter.cpp",
+			"UVLADIE3JM/moc_MainWindow.cpp",
 			null
 		]
 	],
@@ -142,11 +142,11 @@
 	"SETTINGS_FILE" : "/home/breeze256/WorkSpace/diameter/build/CMakeFiles/diameter_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/breeze256/WorkSpace/diameter/src/diameter.cpp", "MU", null ],
+		[ "/home/breeze256/WorkSpace/diameter/src/MainWindow.cpp", "MU", null ],
 		[ "/home/breeze256/WorkSpace/diameter/src/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
-	"UIC_SEARCH_PATHS" : [],
+	"UIC_SEARCH_PATHS" : [ "/home/breeze256/WorkSpace/diameter/src" ],
 	"UIC_SKIP" : [],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : false,

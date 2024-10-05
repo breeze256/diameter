@@ -1,8 +1,8 @@
-CMakeFiles/diameter.dir/src/diameter.cpp.o: \
- /home/breeze256/WorkSpace/diameter/src/diameter.cpp \
+CMakeFiles/diameter.dir/src/main.cpp.o: \
+ /home/breeze256/WorkSpace/diameter/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/breeze256/WorkSpace/diameter/src/diameter.h \
- /home/breeze256/WorkSpace/diameter/src/ui_diameter.h \
+ /home/breeze256/WorkSpace/diameter/src/MainWindow.h \
+ /home/breeze256/WorkSpace/diameter/build/diameter_autogen/include/ui_MainWindow.h \
  /usr/include/qt/QtCore/QVariant /usr/include/qt/QtCore/qvariant.h \
  /usr/include/qt/QtCore/qatomic.h /usr/include/qt/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -243,4 +243,5 @@ CMakeFiles/diameter.dir/src/diameter.cpp.o: \
  /usr/include/qt/QtWidgets/QStatusBar \
  /usr/include/qt/QtWidgets/qstatusbar.h /usr/include/qt/QtWidgets/QWidget \
  /usr/include/qt/QtWidgets/qwidget.h \
- /usr/include/qt/QtWidgets/QMainWindow
+ /usr/include/qt/QtWidgets/QMainWindow \
+ /usr/include/qt/QtWidgets/QApplication

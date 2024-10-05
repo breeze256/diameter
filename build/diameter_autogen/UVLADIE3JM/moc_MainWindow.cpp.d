@@ -1,6 +1,5 @@
-/home/breeze256/WorkSpace/diameter/build/diameter_autogen/UVLADIE3JM/moc_diameter.cpp: /home/breeze256/WorkSpace/diameter/src/diameter.h \
+/home/breeze256/WorkSpace/diameter/build/diameter_autogen/UVLADIE3JM/moc_MainWindow.cpp: /home/breeze256/WorkSpace/diameter/src/MainWindow.h \
   /home/breeze256/WorkSpace/diameter/build/diameter_autogen/moc_predefs.h \
-  /home/breeze256/WorkSpace/diameter/src/ui_diameter.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/asm/errno.h \
@@ -235,7 +234,6 @@
   /usr/include/linux/errno.h \
   /usr/include/locale.h \
   /usr/include/pthread.h \
-  /usr/include/qt/QtCore/QVariant \
   /usr/include/qt/QtCore/qalgorithms.h \
   /usr/include/qt/QtCore/qarraydata.h \
   /usr/include/qt/QtCore/qatomic.h \
@@ -248,10 +246,7 @@
   /usr/include/qt/QtCore/qconfig.h \
   /usr/include/qt/QtCore/qcontainerfwd.h \
   /usr/include/qt/QtCore/qcontainertools_impl.h \
-  /usr/include/qt/QtCore/qcoreapplication.h \
-  /usr/include/qt/QtCore/qcoreevent.h \
   /usr/include/qt/QtCore/qdatastream.h \
-  /usr/include/qt/QtCore/qeventloop.h \
   /usr/include/qt/QtCore/qflags.h \
   /usr/include/qt/QtCore/qgenericatomic.h \
   /usr/include/qt/QtCore/qglobal.h \
@@ -262,9 +257,7 @@
   /usr/include/qt/QtCore/qiterator.h \
   /usr/include/qt/QtCore/qline.h \
   /usr/include/qt/QtCore/qlist.h \
-  /usr/include/qt/QtCore/qlocale.h \
   /usr/include/qt/QtCore/qlogging.h \
-  /usr/include/qt/QtCore/qmap.h \
   /usr/include/qt/QtCore/qmargins.h \
   /usr/include/qt/QtCore/qmetatype.h \
   /usr/include/qt/QtCore/qnamespace.h \
@@ -294,7 +287,6 @@
   /usr/include/qt/QtCore/qsystemdetection.h \
   /usr/include/qt/QtCore/qtcore-config.h \
   /usr/include/qt/QtCore/qtypeinfo.h \
-  /usr/include/qt/QtCore/qvariant.h \
   /usr/include/qt/QtCore/qvarlengtharray.h \
   /usr/include/qt/QtCore/qvector.h \
   /usr/include/qt/QtCore/qversiontagging.h \
@@ -304,10 +296,8 @@
   /usr/include/qt/QtGui/qfont.h \
   /usr/include/qt/QtGui/qfontinfo.h \
   /usr/include/qt/QtGui/qfontmetrics.h \
-  /usr/include/qt/QtGui/qguiapplication.h \
   /usr/include/qt/QtGui/qicon.h \
   /usr/include/qt/QtGui/qimage.h \
-  /usr/include/qt/QtGui/qinputmethod.h \
   /usr/include/qt/QtGui/qkeysequence.h \
   /usr/include/qt/QtGui/qmatrix.h \
   /usr/include/qt/QtGui/qpaintdevice.h \
@@ -322,19 +312,9 @@
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
-  /usr/include/qt/QtWidgets/QApplication \
   /usr/include/qt/QtWidgets/QMainWindow \
-  /usr/include/qt/QtWidgets/QMenuBar \
-  /usr/include/qt/QtWidgets/QStatusBar \
-  /usr/include/qt/QtWidgets/QWidget \
-  /usr/include/qt/QtWidgets/qaction.h \
-  /usr/include/qt/QtWidgets/qactiongroup.h \
-  /usr/include/qt/QtWidgets/qapplication.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
-  /usr/include/qt/QtWidgets/qmenu.h \
-  /usr/include/qt/QtWidgets/qmenubar.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
-  /usr/include/qt/QtWidgets/qstatusbar.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtwidgets-config.h \
   /usr/include/qt/QtWidgets/qtwidgetsglobal.h \

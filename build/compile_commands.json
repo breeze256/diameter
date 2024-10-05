@@ -7,9 +7,9 @@
 },
 {
   "directory": "/home/breeze256/WorkSpace/diameter/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/breeze256/WorkSpace/diameter/build -I/home/breeze256/WorkSpace/diameter -I/home/breeze256/WorkSpace/diameter/build/diameter_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++11 -fPIC -o CMakeFiles/diameter.dir/src/diameter.cpp.o -c /home/breeze256/WorkSpace/diameter/src/diameter.cpp",
-  "file": "/home/breeze256/WorkSpace/diameter/src/diameter.cpp",
-  "output": "CMakeFiles/diameter.dir/src/diameter.cpp.o"
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/breeze256/WorkSpace/diameter/build -I/home/breeze256/WorkSpace/diameter -I/home/breeze256/WorkSpace/diameter/build/diameter_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++11 -fPIC -o CMakeFiles/diameter.dir/src/MainWindow.cpp.o -c /home/breeze256/WorkSpace/diameter/src/MainWindow.cpp",
+  "file": "/home/breeze256/WorkSpace/diameter/src/MainWindow.cpp",
+  "output": "CMakeFiles/diameter.dir/src/MainWindow.cpp.o"
 },
 {
   "directory": "/home/breeze256/WorkSpace/diameter/build",

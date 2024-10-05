@@ -90,19 +90,19 @@ CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/breeze256/WorkSpace/diameter/build/diameter_autogen/mocs_compilation.cpp -o CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.s
 
-CMakeFiles/diameter.dir/src/diameter.cpp.o: CMakeFiles/diameter.dir/flags.make
-CMakeFiles/diameter.dir/src/diameter.cpp.o: /home/breeze256/WorkSpace/diameter/src/diameter.cpp
-CMakeFiles/diameter.dir/src/diameter.cpp.o: CMakeFiles/diameter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/breeze256/WorkSpace/diameter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/diameter.dir/src/diameter.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/diameter.dir/src/diameter.cpp.o -MF CMakeFiles/diameter.dir/src/diameter.cpp.o.d -o CMakeFiles/diameter.dir/src/diameter.cpp.o -c /home/breeze256/WorkSpace/diameter/src/diameter.cpp
+CMakeFiles/diameter.dir/src/MainWindow.cpp.o: CMakeFiles/diameter.dir/flags.make
+CMakeFiles/diameter.dir/src/MainWindow.cpp.o: /home/breeze256/WorkSpace/diameter/src/MainWindow.cpp
+CMakeFiles/diameter.dir/src/MainWindow.cpp.o: CMakeFiles/diameter.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/breeze256/WorkSpace/diameter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/diameter.dir/src/MainWindow.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/diameter.dir/src/MainWindow.cpp.o -MF CMakeFiles/diameter.dir/src/MainWindow.cpp.o.d -o CMakeFiles/diameter.dir/src/MainWindow.cpp.o -c /home/breeze256/WorkSpace/diameter/src/MainWindow.cpp
 
-CMakeFiles/diameter.dir/src/diameter.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/diameter.dir/src/diameter.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/breeze256/WorkSpace/diameter/src/diameter.cpp > CMakeFiles/diameter.dir/src/diameter.cpp.i
+CMakeFiles/diameter.dir/src/MainWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/diameter.dir/src/MainWindow.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/breeze256/WorkSpace/diameter/src/MainWindow.cpp > CMakeFiles/diameter.dir/src/MainWindow.cpp.i
 
-CMakeFiles/diameter.dir/src/diameter.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/diameter.dir/src/diameter.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/breeze256/WorkSpace/diameter/src/diameter.cpp -o CMakeFiles/diameter.dir/src/diameter.cpp.s
+CMakeFiles/diameter.dir/src/MainWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/diameter.dir/src/MainWindow.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/breeze256/WorkSpace/diameter/src/MainWindow.cpp -o CMakeFiles/diameter.dir/src/MainWindow.cpp.s
 
 CMakeFiles/diameter.dir/src/main.cpp.o: CMakeFiles/diameter.dir/flags.make
 CMakeFiles/diameter.dir/src/main.cpp.o: /home/breeze256/WorkSpace/diameter/src/main.cpp
@@ -121,14 +121,14 @@ CMakeFiles/diameter.dir/src/main.cpp.s: cmake_force
 # Object files for target diameter
 diameter_OBJECTS = \
 "CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.o" \
-"CMakeFiles/diameter.dir/src/diameter.cpp.o" \
+"CMakeFiles/diameter.dir/src/MainWindow.cpp.o" \
 "CMakeFiles/diameter.dir/src/main.cpp.o"
 
 # External object files for target diameter
 diameter_EXTERNAL_OBJECTS =
 
 diameter: CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.o
-diameter: CMakeFiles/diameter.dir/src/diameter.cpp.o
+diameter: CMakeFiles/diameter.dir/src/MainWindow.cpp.o
 diameter: CMakeFiles/diameter.dir/src/main.cpp.o
 diameter: CMakeFiles/diameter.dir/build.make
 diameter: /usr/lib/libQt5Widgets.so.5.15.15

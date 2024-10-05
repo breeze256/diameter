@@ -10,7 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "diameter_autogen/timestamp" "custom" "diameter_autogen/deps"
   "/home/breeze256/WorkSpace/diameter/build/diameter_autogen/mocs_compilation.cpp" "CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.o.d"
-  "/home/breeze256/WorkSpace/diameter/src/diameter.cpp" "CMakeFiles/diameter.dir/src/diameter.cpp.o" "gcc" "CMakeFiles/diameter.dir/src/diameter.cpp.o.d"
+  "/home/breeze256/WorkSpace/diameter/src/MainWindow.cpp" "CMakeFiles/diameter.dir/src/MainWindow.cpp.o" "gcc" "CMakeFiles/diameter.dir/src/MainWindow.cpp.o.d"
   "/home/breeze256/WorkSpace/diameter/src/main.cpp" "CMakeFiles/diameter.dir/src/main.cpp.o" "gcc" "CMakeFiles/diameter.dir/src/main.cpp.o.d"
   )
 

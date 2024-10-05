@@ -179,29 +179,29 @@ diameter_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/diameter_autogen/mocs_compilation.cpp.s
 .PHONY : diameter_autogen/mocs_compilation.cpp.s
 
-src/diameter.o: src/diameter.cpp.o
+src/diameter.o: src/MainWindow.cpp.o
 .PHONY : src/diameter.o
 
 # target to build an object file
-src/diameter.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/src/diameter.cpp.o
-.PHONY : src/diameter.cpp.o
+src/MainWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/src/MainWindow.cpp.o
+.PHONY : src/MainWindow.cpp.o
 
-src/diameter.i: src/diameter.cpp.i
+src/diameter.i: src/MainWindow.cpp.i
 .PHONY : src/diameter.i
 
 # target to preprocess a source file
-src/diameter.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/src/diameter.cpp.i
-.PHONY : src/diameter.cpp.i
+src/MainWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/src/MainWindow.cpp.i
+.PHONY : src/MainWindow.cpp.i
 
-src/diameter.s: src/diameter.cpp.s
+src/diameter.s: src/MainWindow.cpp.s
 .PHONY : src/diameter.s
 
 # target to generate assembly for a file
-src/diameter.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/src/diameter.cpp.s
-.PHONY : src/diameter.cpp.s
+src/MainWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/diameter.dir/build.make CMakeFiles/diameter.dir/src/MainWindow.cpp.s
+.PHONY : src/MainWindow.cpp.s
 
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
