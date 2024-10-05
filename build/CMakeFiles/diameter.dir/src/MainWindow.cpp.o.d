@@ -243,4 +243,6 @@ CMakeFiles/diameter.dir/src/MainWindow.cpp.o: \
  /usr/include/qt/QtWidgets/QStatusBar \
  /usr/include/qt/QtWidgets/qstatusbar.h /usr/include/qt/QtWidgets/QWidget \
  /usr/include/qt/QtWidgets/qwidget.h \
- /usr/include/qt/QtWidgets/QMainWindow
+ /usr/include/qt/QtWidgets/QMainWindow /usr/include/qt/QtWidgets/QLabel \
+ /usr/include/qt/QtWidgets/qlabel.h /usr/include/qt/QtWidgets/qframe.h \
+ /usr/include/qt/QtWidgets/qlabel.h /usr/include/qt/QtCore/qnamespace.h

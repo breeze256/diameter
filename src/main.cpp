@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
 {
     QApplication diameter(argc, argv);
     MainWindow Window1;
+    Window1.setWindowTitle("Diameter MainWindow");
     Window1.show();
     return diameter.exec();
 }
